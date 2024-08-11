@@ -2,7 +2,7 @@
 
 ## Acerca del Proyecto
 
-En este repositorio se encuentra al estructura de directorio del Sistema Web appMedWeb desarrollado para la asignatura Ingenieria de Software.
+En este repositorio se encuentra al estructura de directorio del Sistema Web appMedWeb desarrollado para con Ingenieria de Software para la gestion centralizada de expedientes clinicos.
 
 ### Estructura de Carpetas
 - Base de datos
